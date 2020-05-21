@@ -1,0 +1,61 @@
+C:\Users\Артур\AppData\Local\Temporary Projects\GameBot2048\obj\x86\Debug\GameBot2048.GameForm.resources
+C:\Users\Артур\AppData\Local\Temporary Projects\GameBot2048\obj\x86\Debug\GameBot2048.Properties.Resources.resources
+C:\Users\Артур\AppData\Local\Temporary Projects\GameBot2048\obj\x86\Debug\GameBot2048.csproj.GenerateResource.Cache
+C:\Users\Артур\AppData\Local\Temporary Projects\GameBot2048\bin\Debug\GameBot2048.exe
+C:\Users\Артур\AppData\Local\Temporary Projects\GameBot2048\bin\Debug\GameBot2048.pdb
+C:\Users\Артур\AppData\Local\Temporary Projects\GameBot2048\obj\x86\Debug\GameBot2048.exe
+C:\Users\Артур\AppData\Local\Temporary Projects\GameBot2048\obj\x86\Debug\GameBot2048.pdb
+C:\Users\Артур\AppData\Local\Temporary Projects\GameBot2048\obj\x86\Debug\GameBot2048.GameSettingsForm.resources
+D:\Program\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.exe
+D:\Program\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.pdb
+D:\Program\Проекти\GameBot2048\GameBot2048\bin\Debug\GameBot2048.exe
+D:\Program\Проекти\GameBot2048\GameBot2048\bin\Debug\GameBot2048.pdb
+D:\Program\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameForm.resources
+D:\Program\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameSettingsForm.resources
+D:\Program\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.Properties.Resources.resources
+D:\Program\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.csproj.GenerateResource.Cache
+D:\My World\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.exe
+D:\My World\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.pdb
+D:\My World\Проекти\GameBot2048\GameBot2048\bin\Debug\GameBot2048.exe
+D:\My World\Проекти\GameBot2048\GameBot2048\bin\Debug\GameBot2048.pdb
+D:\My World\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameForm.resources
+D:\My World\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameSettingsForm.resources
+D:\My World\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.Properties.Resources.resources
+D:\My World\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.csproj.GenerateResource.Cache
+D:\My World\Проекти\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.exe
+C:\Users\Артур\Desktop\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.pdb
+C:\Users\Артур\Desktop\GameBot2048\GameBot2048\bin\Debug\GameBot2048.exe
+C:\Users\Артур\Desktop\GameBot2048\GameBot2048\bin\Debug\GameBot2048.pdb
+C:\Users\Артур\Desktop\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameForm.resources
+C:\Users\Артур\Desktop\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameSettingsForm.resources
+C:\Users\Артур\Desktop\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.Properties.Resources.resources
+C:\Users\Артур\Desktop\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.csproj.GenerateResource.Cache
+F:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.exe
+F:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.pdb
+F:\GameBot2048\GameBot2048\bin\Debug\GameBot2048.exe
+F:\GameBot2048\GameBot2048\bin\Debug\GameBot2048.pdb
+F:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameForm.resources
+F:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameSettingsForm.resources
+F:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.Properties.Resources.resources
+G:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.exe
+G:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.pdb
+G:\GameBot2048\GameBot2048\bin\Debug\GameBot2048.exe
+G:\GameBot2048\GameBot2048\bin\Debug\GameBot2048.pdb
+G:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameForm.resources
+G:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameSettingsForm.resources
+G:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.Properties.Resources.resources
+G:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.csproj.GenerateResource.Cache
+E:\GameBot2048\GameBot2048\bin\Debug\GameBot2048.exe
+E:\GameBot2048\GameBot2048\bin\Debug\GameBot2048.pdb
+E:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.csprojAssemblyReference.cache
+E:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameForm.resources
+E:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.GameSettingsForm.resources
+E:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.Properties.Resources.resources
+E:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.csproj.GenerateResource.cache
+E:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.csproj.CoreCompileInputs.cache
+E:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.exe
+E:\GameBot2048\GameBot2048\obj\x86\Debug\GameBot2048.pdb
+F:\GameBot2048\GameBot2048\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GameBot2048\GameBot2048\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\GameBot2048\GameBot2048\obj\x86\Debug\GenerateResource.write.1.tlog
